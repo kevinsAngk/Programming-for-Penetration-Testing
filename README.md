@@ -1,6 +1,9 @@
 # Programming-for-Penetration-Testing
 
-1. website_checker.py
+# to run: python ./run_docker.py
+
+
+1. run_docker.py
 This Python script creates and runs Docker containers to check websites. It utilizes threading to spawn multiple containers concurrently.
 
 ![image](https://github.com/kevinsAngk/Programming-for-Penetration-Testing/assets/79265592/efa33b53-5713-4a3b-afe5-f1a742c9487b)
