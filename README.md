@@ -1,6 +1,6 @@
 # Programming-for-Penetration-Testing
 
-# to run: python ./run_docker.py
+# to run: python .\run_docker.py
 
 
 1. run_docker.py
