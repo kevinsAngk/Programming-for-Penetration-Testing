@@ -1,0 +1,9 @@
+# Dockerfile
+
+FROM python:3.8-slim
+WORKDIR /app
+# COPY check_connection.py  ./
+# COPY test.py ./ 
+COPY http_flood.py ./
+RUN pip install requests
+CMD ["python", "http_flood.py"]
